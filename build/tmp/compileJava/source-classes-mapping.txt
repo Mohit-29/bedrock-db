@@ -1,0 +1,2 @@
+com/bedrock/dbmigration/DbMigrationApplication.java
+ com.bedrock.dbmigration.DbMigrationApplication
